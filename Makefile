@@ -1,7 +1,6 @@
-all: server client
+all: client
 
-server: mt.h
 client: mt.h
 
 clean: 
-	rm -f server client
+	rm -f client

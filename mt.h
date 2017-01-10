@@ -12,9 +12,8 @@
 
 #include <signal.h>
 
-#define PORT 5555
+#define PORT 23
 #define MAX_MSG_LENGTH 1024
-#define END_STRING "chau\n"
 #define COMPLETE_STRING "fin-respuesta"
 
 #ifndef MSG_NOSIGNAL
