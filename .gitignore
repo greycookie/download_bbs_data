@@ -36,6 +36,7 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+.vscode
 
 # Program specific files #
 ##########################
@@ -43,3 +44,4 @@ Thumbs.db
 client
 server
 *~
+connect.sh

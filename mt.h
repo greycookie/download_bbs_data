@@ -13,7 +13,7 @@
 #include <signal.h>
 
 #define PORT 23
-#define MAX_MSG_LENGTH 1024
+#define MAX_MSG_LENGTH 2048
 #define COMPLETE_STRING "fin-respuesta"
 
 #ifndef MSG_NOSIGNAL
